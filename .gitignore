@@ -1,0 +1,39 @@
+## Compilados ##
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.mdb
+
+## Archivos de usuario de Visual Studio ##
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Configuración de VSCode y VS ##
+.vscode/
+.vs/
+
+## Archivos temporales y de sistema ##
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+
+## Archivos del sistema de construcción ##
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Publicaciones ##
+*.publish/
+
+## Paquetes NuGet ##
+*.nupkg
+packages/
+*.snupkg
