@@ -46,6 +46,7 @@
     <Compile Include="Seccion7\metodos.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Seccion7\Propiedades.cs" />
+    <Compile Include="Seccion7\SobrecargaMetodos.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
