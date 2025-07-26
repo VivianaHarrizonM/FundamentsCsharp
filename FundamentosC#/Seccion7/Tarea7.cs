@@ -9,7 +9,7 @@ namespace FundamentosC_.Seccion7
 {
     internal class Tarea7
     {
-        static void Main(string[] args)
+      /*  static void Main(string[] args)
         
             {
 
@@ -158,6 +158,6 @@ namespace FundamentosC_.Seccion7
                        $"RFC: {rfc}\n" +
                        $"Saldo actual: ${saldo:F2}";
             }
-        }
+        }*/
     }
 }
