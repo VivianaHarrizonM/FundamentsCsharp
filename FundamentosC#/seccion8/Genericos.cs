@@ -7,13 +7,12 @@ using System.Threading.Tasks;
 namespace FundamentosC_.seccion8
 {
     internal class Genericos
-    {
+    {/*
         static void Main(string[] args)
         {
             //Variables locales
             string valorElemento;
-            /*Alumno valorElemento*/
-            ;
+            //Alumno valorElemento;
 
 
             //Instanciando la clase
@@ -41,7 +40,7 @@ namespace FundamentosC_.seccion8
             valorElemento = objetos1.ObtenerElemento(1);
             Console.WriteLine(valorElemento);
             //Console.WriteLine(valorElemento.Calificación);
-        }
+        }*/
     }
         
     class GuardaObjetos<T>
