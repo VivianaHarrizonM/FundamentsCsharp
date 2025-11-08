@@ -39,6 +39,15 @@ namespace FundamentosC_.seccion8
                 Console.WriteLine("{0}. {1}", i++, elemento);
             }
 
+            //Despues de quitar un elemento
+            Console.WriteLine("\nDespués de quitar un elemento\n");
+            miPila.Pop();
+            i = 0; //Reiniciamos el valor del índice
+                   //
+            foreach (double elemento in miPila)
+            {
+                Console.WriteLine("{0}. {1}", i++, elemento);
+            }
         }
     }
 }
