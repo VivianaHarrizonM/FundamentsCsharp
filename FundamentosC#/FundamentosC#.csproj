@@ -52,6 +52,7 @@
     <Compile Include="seccion8\CollectionStack.cs" />
     <Compile Include="seccion8\Ejercicio8.cs" />
     <Compile Include="seccion8\Genericos.cs" />
+    <Compile Include="seccion8\Queue.cs" />
     <Compile Include="seccion8\SintaxisList.cs" />
     <Compile Include="seccion8\tipoList.cs" />
     <Compile Include="seccion8\tipoObject.cs" />
