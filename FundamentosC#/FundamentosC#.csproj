@@ -50,6 +50,7 @@
     <Compile Include="Seccion7\Propiedades.cs" />
     <Compile Include="Seccion7\SobrecargaMetodos.cs" />
     <Compile Include="seccion8\CollectionStack.cs" />
+    <Compile Include="seccion8\Dictionary.cs" />
     <Compile Include="seccion8\Ejercicio8.cs" />
     <Compile Include="seccion8\Genericos.cs" />
     <Compile Include="seccion8\Queue.cs" />

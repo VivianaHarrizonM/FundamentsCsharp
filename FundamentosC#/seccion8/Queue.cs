@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace FundamentosC_.seccion8
 {
     internal class Queue
-    {
+    {/*
         static void Main(string[] args)
         {
             //Queue
@@ -48,6 +48,6 @@ namespace FundamentosC_.seccion8
                 Console.WriteLine("{0}. {1}", i++, elemento);
             }
             Console.WriteLine("\n({0}) fue eliminado correctamente ", objElim);
-        }
+        }*/
     }
 }
